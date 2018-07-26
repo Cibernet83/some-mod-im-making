@@ -1,0 +1,25 @@
+//Items
+item.egg_thing.name=Egg Thing
+item.fluorite_octet.name=Fluorite Octet
+item.fluorite.name=Fluorite
+item.fluorite_gauntlet.name=Fluorite Gauntlet
+
+//Blocks
+tile.fluorite_block.name=Block of Fluorite
+tile.fluorite_ore.name=Fluorite Ore
+
+//Emerald Tools
+item.emerald_sword.name=Emerald Sword
+item.emerald_axe.name=Emerald Axe
+item.emerald_shovel.name=Emerald Shovel
+item.emerald_hoe.name=Emerald Hoe
+item.emerald_pickaxe.name=Emerald Pickaxe
+
+//Slime Armor
+item.slime_helmet.name=Slime Helmet
+item.slime_chestplate.name=Slime Jacket
+item.slime_leggings.name=Slime Pants
+item.slime_boots.name=Slime Boots
+
+//Creative Tabs
+itemGroup.tutorialtab=Tutorial Mod

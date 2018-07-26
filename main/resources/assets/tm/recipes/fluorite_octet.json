@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#E#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "tm:fluorite"
+        },
+        
+        "E": {
+            "item": "tm:egg_thing"
+        }
+        
+    },
+    "result": {
+        "item": "tm:fluorite_octet",
+        "count": 1
+    }
+}

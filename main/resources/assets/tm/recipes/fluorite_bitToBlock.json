@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "tm:fluorite"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:fluorite_block",
+        "count": 1
+    }
+}
